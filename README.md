@@ -1,3 +1,3 @@
 # hello-world
-Just another >repository<
+Just another <strong>repository</strong>
 ## Write about myself
