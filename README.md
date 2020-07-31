@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-Write about myself
+Just another *repository*
+## Write about myself
